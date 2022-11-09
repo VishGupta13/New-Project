@@ -69,13 +69,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-YOU CAN LOGIN YOURSELF AND SUBSCRIBE FOR OUR NEWLETTER 
+ANYONE SUBSCRIBE FOR OUR NEWLETTER 
 
 ![image](https://user-images.githubusercontent.com/101784792/200926502-aabf1cb8-2036-4c1e-b596-980509a9b796.png)
 
-
+YOU CAN THAN LOGIN WITH YOUR EMAIL ID WHICH YOU HAVE SUBSCRIBED TO OUR NEWLETTER.
 
 ![image](https://user-images.githubusercontent.com/101784792/200926780-68f939c6-1db9-4ccd-8408-6fc3737042ac.png)
+
+AFTER SUCCEFFULLY LOGIN YOU CAN GET A UNIQUE OWNER ID WHICH YOU CAN USE TO MAKE YOUR OWN PLUGIN AND USE IT TO YOUR OWN WEBSITE.
 
 ![image](https://user-images.githubusercontent.com/101784792/200927347-7a6e0154-20a8-4615-b78c-9796ebd22cad.png)
 
